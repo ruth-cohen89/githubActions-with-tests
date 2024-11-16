@@ -7,7 +7,7 @@ describe("Math Operations", () => {
     expect(add(0, 0)).toBe(0);
   });
 
-  test("substract() should correctly subtract two numbers", () => {
+  test("substract() should correctly subtract two numbers :)", () => {
     expect(substract(5, 3)).toBe(2);
     expect(substract(0, 5)).toBe(-5);
     expect(substract(-5, -5)).toBe(0);
